@@ -1,1 +1,1 @@
-<h1>Ejercicio de clasificacion con machine learning<h1> 
+<h1>Algoritmo de clasificacion con machine learning<h1> 
